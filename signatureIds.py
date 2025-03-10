@@ -2,7 +2,7 @@ import re
 from scapy.all import *
 
 # Path to your Snort community rules file
-rules_file = "C:\\Users\\varun\\Downloads\\snort3-community-rules.tar\\snort3-community-rules\\snort3-community.rules"
+rules_file = "snort3-community.rules"
 
 attack_signatures = []
 
